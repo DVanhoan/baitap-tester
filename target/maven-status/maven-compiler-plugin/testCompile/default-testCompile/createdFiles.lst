@@ -1,0 +1,5 @@
+login\TestLoginScenarios.class
+login\TestLoginWithWait.class
+base\BaseTests.class
+login\TestAlertHandling.class
+login\TestLoginSuccessful.class
