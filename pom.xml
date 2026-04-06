@@ -38,8 +38,13 @@
       <artifactId>selenium-chrome-driver</artifactId>
       <version>4.18.1</version>
     </dependency>
+    <dependency>
+      <groupId>org.testng</groupId>
+      <artifactId>testng</artifactId>
+      <version>7.9.0</version>
+      <scope>test</scope>
+    </dependency>
 
-    <!-- WebDriver Manager for automatic driver management -->
     <dependency>
       <groupId>io.github.bonigarcia</groupId>
       <artifactId>webdrivermanager</artifactId>
